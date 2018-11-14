@@ -1,5 +1,3 @@
-package rechner;
-
 public class Rechner {
 	public int addiere(int a, int b) {
 		int c = a+b;
